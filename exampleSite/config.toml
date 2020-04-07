@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://air1261.netlify.com/"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
